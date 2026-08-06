@@ -219,3 +219,9 @@ __marimo__/
 
 #Node
 node-modules/
+
+
+.env
+__pycache__/
+*.pyc
+env/
